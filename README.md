@@ -1,2 +1,2 @@
 # springboot-workshop
-sample workshop for my team
+sample workshop for my team.
